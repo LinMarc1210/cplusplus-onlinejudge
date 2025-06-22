@@ -1,0 +1,5 @@
+A+B,./data/problem/testcase/a+b/input.txt,./data/problem/testcase/a+b/ans.txt,10
+Hello World,./data/problem/testcase/helloworld,/data/problem/testcase/helloworld,10
+NCKU CSIE PROGRAMMING,./data/problem/testcase/ncku,./data/problem/testcase/ncku,10
+RRRRRR,./data/problem/testcase/rrrrrr,./data/problem/testcase/rrrrrr,20
+RT,./data/testcase/rt,./data/testcase/rt/ans,9
